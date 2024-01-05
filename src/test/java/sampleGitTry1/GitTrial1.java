@@ -7,6 +7,5 @@ public class GitTrial1 {
 		System.out.println("hello git please run smoothly");
 	}
 	
-	
 
 }
